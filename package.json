@@ -1,0 +1,23 @@
+{
+  "name": "vue2-coffeeshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igavelyuk/vue2-coffeeshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igavelyuk/vue2-coffeeshop/issues"
+  },
+  "homepage": "https://github.com/igavelyuk/vue2-coffeeshop#readme",
+  "dependencies": {
+    "create-vue": "^3.3.4"
+  }
+}
